@@ -4,9 +4,8 @@ public class mainC {
 
     }
 
-    public void future(){
-        System.out.println("My name is Phuong, and my horoscope is Scorpio.");
+    public void cheer(){
+        System.out.println("Team:" + " pikachu với vú");
     }
-
 }
 
