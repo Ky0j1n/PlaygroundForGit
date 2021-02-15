@@ -5,7 +5,7 @@ public class mainD {
     }
 
     public void future(String name){
-        System.out.println("My name is Phuong, and my horoscope is Scorpio.");
+        System.out.println("My name is Phuong, and my horoscope is Dog.");
         System.out.println(name);
         System.out.println("hejjo");
     }
