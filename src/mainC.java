@@ -4,9 +4,10 @@ public class mainC {
 
     }
 
-    public void cheer(){
+    public void cheer() {
         String teamName = " charizard với vú";
-        System.out.println("Team:" + teamName);
+        String team = "Team:";
+        System.out.println(team + teamName);
     }
 }
 
