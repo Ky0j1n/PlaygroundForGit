@@ -3,7 +3,7 @@ public class mainB {
 
     }
 
-    public void greet(){
+    public void count(){
         System.out.println("I'm 26 (Tomi)");
     }
 }
