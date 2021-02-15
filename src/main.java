@@ -4,6 +4,6 @@ public class main {
     }
 
     public void greet(){
-        System.out.println("Your name (Mate)");
+        System.out.println("Your name (Mate)" + " pikachu với vú");
     }
 }
