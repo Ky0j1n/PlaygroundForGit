@@ -4,6 +4,8 @@ public class mainB {
     }
 
     public void count(Long number, String name){
+
         System.out.println("I'm" + name + "and " + number + "years old.");
+
     }
 }
