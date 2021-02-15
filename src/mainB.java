@@ -4,6 +4,6 @@ public class mainB {
     }
 
     public void count(Long number){
-        System.out.println("I'm" + number + "(Tomi)");
+        System.out.println("9");
     }
 }
