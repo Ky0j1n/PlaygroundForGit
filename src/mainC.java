@@ -5,7 +5,7 @@ public class mainC {
     }
 
     public void cheer(){
-        String teamName = " pikachu với vú";
+        String teamName = " charizard với vú";
         System.out.println("Team:" + teamName);
     }
 }
