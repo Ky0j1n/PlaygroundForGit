@@ -3,7 +3,7 @@ public class mainB {
 
     }
 
-    public void count(){
-        System.out.println("I'm 26 (Tomi)");
+    public void count(Integer number){
+        System.out.println("I'm" + number + "(Tomi)");
     }
 }
